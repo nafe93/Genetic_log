@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/developer/C++/QT/Genetic_logaritm/Genetic_Algoritm.hpp
+iostream
+-
+string
+-
+math.h
+-
+vector
+-
+algorithm
+-
+bitset
+-
+limits
+-
+
+/home/developer/C++/QT/Genetic_logaritm/main.cpp
+iostream
+-
+string
+-
+string.h
+-
+math.h
+-
+vector
+-
+algorithm
+-
+bitset
+-
+limits
+-
+Genetic_Algoritm.hpp
+/home/developer/C++/QT/Genetic_logaritm/Genetic_Algoritm.hpp
+

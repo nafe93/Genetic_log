@@ -1,0 +1,3 @@
+/home/developer/C++/QT/Genetic_logaritm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/developer/C++/QT/Genetic_logaritm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/developer/C++/QT/Genetic_logaritm/cmake-build-debug/CMakeFiles/Genetic_logaritm.dir

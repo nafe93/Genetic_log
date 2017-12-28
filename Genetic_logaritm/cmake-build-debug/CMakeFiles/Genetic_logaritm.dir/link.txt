@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Genetic_logaritm.dir/main.cpp.o  -o Genetic_logaritm 
